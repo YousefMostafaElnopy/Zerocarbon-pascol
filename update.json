@@ -1,7 +1,7 @@
 {
   "esp_version": "3.1",
-  "esp_firmware_url": "https://raw.githubusercontent.com/YousefMostafaElnopy/shatat-group/main/update.bin",
+  "esp_firmware_url": "https://raw.githubusercontent.com/YousefMostafaElnopy/Zerocarbon-pascol/main/update.bin",
   "stm_version": "1.4",
-  "stm_firmware_url": "https://raw.githubusercontent.com/YousefMostafaElnopy/shatat-group/main/updateSTM.bin",
+  "stm_firmware_url": "https://raw.githubusercontent.com/YousefMostafaElnopy/Zerocarbon-pascol/main/updateSTM.bin",
   "divce_id": "4 pasco isma"
 }
